@@ -385,7 +385,7 @@ const quizData = [
     c: "Оператор &&",
     d: "Конструктор",
     e: "Оператор []",
-    correct: "d"
+    correct: 'a'
 },
 {
     question: "Енгізу-шығару ағындарымен жұмыс істеу үшін қандай тақырып файлын қосу керек?",
@@ -1573,7 +1573,7 @@ const quizData = [
     c: "1985 г",
     d: "1986 г",
     e: "1987 г",
-    correct: "c"
+    correct: 'a'
   },
   {
     question: "C++ -та private класс не үшін қажет?",
@@ -1600,7 +1600,7 @@ const quizData = [
     c: "C) 3",
     d: "D) 0",
     e: "E) Ошибка компиляции",
-    correct: "c"
+    correct: 'a'
   },
   {
     question: "C++ -та көрсеткіш дегеніміз не?",
@@ -1662,7 +1662,7 @@ const quizData = [
     c: "Статикалық терілген",
     d: "Жалпы мақсаттағы",
     e: "Объектіге бағытталған",
-    correct: "e"
+    correct: 'a'
   },
   {
     question: "C++ - қандай бағдарламалау тілінің жетілдірілген нұсқасы?",
@@ -1734,7 +1734,7 @@ const quizData = [
     c: "Белсенді әзірлеушілер қауымдастығы",
     d: "W3Schools сайты",
     e: "Ресми құжаттама",
-    correct: "e"
+    correct: 'a'
   },
   {
   question: "Мәтінде сипатталған бағдарлама қандай есепті шешеді?",
@@ -1811,7 +1811,7 @@ const quizData = [
   c: "char[]",
   d: "std::string",
   e: "Барлығы",
-  correct: "e"
+  correct: 'a'
 },
 {
   question: "Динамикалық бөлінген жадты босатпасаңыз не болады?",
@@ -1847,7 +1847,7 @@ const quizData = [
   b: "void MyClass()",
   c: "MyClass() { }",
   d: "constructor MyClass() 5. MyClass(void)",
-  correct: "c"
+  correct: 'a'
 },
 
 {
