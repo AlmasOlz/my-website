@@ -786,7 +786,7 @@ const quizData =[
 		c: 'day',
 		d: 'digital',
 		e: 'дұрыс жауап жоқ',
-		correct: 'b', // Correct answer should be 'data'
+		correct: 'a', // Correct answer should be 'data'
 	},
 	{
 		question:
