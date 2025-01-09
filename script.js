@@ -1637,7 +1637,7 @@ let score = 0;
 // Перемешивание вопросов
 function shuffleQuizData() {
   shuffleArray(quizData);
-  shuffledQuestions = quizData.slice(0, 100).map((q) => {
+  shuffledQuestions = quizData.slice(0, 40).map((q) => {
     const answers = [
       { key: "a", text: q.a },
       { key: "b", text: q.b },
